@@ -44,9 +44,6 @@ Additionally, make sure you have `wkhtmltopdf` installed. You can download it fr
 
 ## Support
 
-If you encounter any issues or have any questions, please feel free to [open an issue](https://github.com/yourusername/markdown-to-pdf-app/issues) on GitHub.
+If you encounter any issues or have any questions, please feel free to [open an issue](https://github.com/jebinshaju/markdown_to_pdf/issues) on GitHub.
 
-## License
-
-This app is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
